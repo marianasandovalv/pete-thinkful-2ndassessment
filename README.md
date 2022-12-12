@@ -1,1 +1,1 @@
-# pete-thinkful-2ndassessment
+# starter-pete-thinkful-portfolio
